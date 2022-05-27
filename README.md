@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khalid9996
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on React Based Projects
 - 📫 How to reach me , via Email - khankhalid1743@gmail.com
 
