@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @khalid9996
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on React Based Projects
-- 📫 How to reach me , via Email - khankhalid1743@gmail.com
-
-<!---
-khalid9996/khalid9996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-Stack Web Developer with skills to build end-to-end web applications. Experience on creating Front-end and Back-end code from scratch or by utilizing a handful of frameworks and libraries. Motivated by the innovations of technology and a passion for constant learning. Striving for efficient, beautiful code, delivered on time, and the satisfaction of customers with the product created.
